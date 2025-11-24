@@ -1,6 +1,6 @@
 # **Trader Behavior Insights — Linking Market Sentiment to Trader Performance**
 
-### **By: Janhavi Rewale**
+
 
 ---
 
@@ -152,5 +152,5 @@ pip install -r requirements.txt
 ## 📬 **Contact**
 
 **Janhavi Rewale**  
-*(Add your email / LinkedIn if you want)*
+
 
